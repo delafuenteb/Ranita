@@ -20,7 +20,7 @@ int main()
 
     srand (time(NULL));       //Instrucción que inicializa el generador de números aleatorios]
 
-    float xPlayer=300;
+    float xPlayer=400;
     float yPlayer=200;
     int salto,direccion;
 
